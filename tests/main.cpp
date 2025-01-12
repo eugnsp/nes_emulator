@@ -1,3 +1,3 @@
-#include "test.h"
+#include "emu/test.h"
 
 TEST_DEFINE_MAIN
